@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Gary Zhang",
+      "employeeId": 10001,
+      "title": "Corp Admin"
+    },
+    {
+      "id": 2,
+      "name": "Lan Zhang",
+      "employeeId": 10002,
+      "title": "Sys Admin"
+    }
+  ]
+}
